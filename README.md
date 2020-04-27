@@ -1,2 +1,3 @@
 # chef-repo
-My own Chef Repository to explore more
+My own Chef Repository to explore more by doing!
+I Love Automation
